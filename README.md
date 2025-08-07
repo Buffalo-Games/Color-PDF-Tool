@@ -23,6 +23,11 @@ Users can also specify their own custom payload directory containing additional 
 ## Get Started
 
 ### Direct Installation (Recommended)
+Run the curl command below in Terminal.app.
+Open Adobe Bridge.
+Select Edit > Color Settings.
+Check the box in the lower left "Show Expanded List ..."
+Scroll to the top of the window to select "Buffalo Color Settings (GRACoL 2013)
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/Buffalo-Games/Color-PDF-Tool/refs/heads/main/cm-tool.sh) install
 ```
