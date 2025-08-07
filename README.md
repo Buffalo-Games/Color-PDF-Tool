@@ -24,13 +24,13 @@ Users can also specify their own custom payload directory containing additional 
 
 ### Direct Installation (Recommended)
 ```bash
-bash <(curl -sSL https://github.com/Buffalo-Games/Color-PDF-Tool/cm-tool.sh) install
+bash <(curl -sSL https://raw.githubusercontent.com/Buffalo-Games/Color-PDF-Tool/refs/heads/main/cm-tool.sh) install
 ```
 
 ### Local Installation
 1. Download the script:
    ```bash
-   curl -sSL https://github.com/Buffalo-Games/Color-PDF-Tool/cm-tool.sh -o cm-tool.sh
+   curl -sSL https://raw.githubusercontent.com/Buffalo-Games/Color-PDF-Tool/refs/heads/main/cm-tool.sh -o cm-tool.sh
    ```
 
 2. Make executable:
